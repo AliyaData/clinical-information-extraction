@@ -1,0 +1,1116 @@
+[
+  {
+    "id": 721,
+    "text": "A 63-year old male presented with a history of lumbar laminectomy and fusion seven months prior to his initial presentation. He recalls that two days following his prone lumbar operation he began experiencing severe bilateral pain along the respective anterolateral thigh. Lumbar magnetic resonance imaging (MRI) ruled out spinal nerve root-related pathology as causative and a definitive diagnosis of bilateral MP, secondary to LFCN compression during the prone spinal surgery, was rendered. Conservative measures with oral analgesics were initially recommended given the typically self-limited course of this pathology. Despite an increasing regimen, including NSAIDs, narcotics, and anti-neuropathic pain medications, the pain persisted over the course of several months. Additionally, traditional",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Skin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 959,
+    "text": "A 27-year-old Iranian woman was admitted to our hospital for evaluation of worsening hepatic function. She first came to medical attention at the age of 10 when hepatosplenomegaly was noted incidentally on a routine physical examination at another hospital, so she was admitted to undergo further examination. Her liver function was found to be within normal limits as was her renal function. Both her growth and development were normal for her age. However, hepatomegaly and splenomegaly were noted. A liver biopsy revealed proliferation of collagen fibers surrounding the portal area, a finding that was compatible with congenital hepatic fibrosis. Our patient had no history of hematemesis or tarry stool, but esophageal varices were detectable beginning at 10 years of age. Propranolol was starte",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Propranolol"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 194,
+    "text": "A 55-year-old woman presented with several months of diplopia and complete ophthalmoplegia of the right eye. MRI revealed a 6.9 cm x 6.6 cm x 6.9 cm destructive lesion involving the sphenoid bone and extending into the sphenoid sinus, cavernous sinus, suprasellar cistern, and posterior fossa most consistent with a chondrosarcoma (Figure ).\nThe patient was taken to the operating room for an endoscopic endonasal resection of this lesion and provided informed consent for use of her case for academic and research purposes. A lumbar drain was placed preoperatively and kept clamped throughout the procedure. An expanded endoscopic approach was performed with wide maxillary antrostomy and ethmoidectomy. A nasal septal flap was harvested and rotated into the maxillary sinus. The sphenoid sinus was",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 339,
+    "text": "The patient is a 99-year-old woman, with a vision loss of 70% in the left eye and 40% in the right eye, who underwent basal cell carcinoma resection of the lower right eyelid 3 months before. The resection had an extension of 0.7 × 0.3 cm2, affecting the central margin of the lower eyelid and was treated with direct closure. The hystopathology report of the resection informed solid (nodular) type of basal cell carcinoma characterized by islands of cells with peripheral palisading and disorganized central cells. The margins of resection and the deepest layers were affected.\nAfter the hystopathology report, we decided to plan a more aggressive treatment around the scar of the previous resection. The scar was not well defined (Fig A), so we thought the best approach would be a total resection",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 45,
+    "text": "A 6-year-old girl, who happened to have swallowed a 100 FCFA coin (diameter 22 mm, ) on April 2014, was taken immediately to an ENT physician because of esophageal symptoms. An attempt (by the physician) to remove the coin with the aid of a rigid esophagoscope was unsuccessful and was rather complicated by perforation of the esophagus. The child was taken to a tertiary hospital in Douala (Cameroon) three days after the accident, where a chest radiograph and CT scan revealed a massive right empyema (). A chest tube was placed and she was transferred to the intensive care unit, where she was placed on broad spectrum antibiotics. She was transferred to Yaoundé 12 days after the incident because her clinical state did not improve. On arrival, she was in severe respiratory distress and septic s",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Immediate"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1495,
+    "text": "A 59-year-old male with end-stage renal disease due to nephrosclerosis was evaluated for a living unrelated kidney transplantation. A first kidney transplantation had been performed in 1993 (HLA of the first donor ) and the kidney had functioned for 10 years. Graft failure was caused by chronic vascular rejection. The nonfunctioning kidney was removed shortly after its failure and the patient was treated again with hemodialysis. Blood group of the recipient was 0+, HLA type is shown in , and the most recent PRA level was 34%. The past medical history included hypertension, coronary heart disease, deep venous thrombosis, prolonged reversible ischemic neurologic deficit, and a central venous thrombosis of the right eye. Currently the patient was under anticoagulation with phenprocoumon. Pret",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 735,
+    "text": "A 21-year-old non-smoking young man presented with complaints of general fatigue and rapid weight loss in the past 3 months. During this period, he was referred to a local hospital for radiological examination. Computed tomographic (CT) scans revealed a huge mass in the left lung. A fibreoptic bronchoscopy was performed in the local hospital, but biopsy examination was negative because only inflammatory mucosa was observed under the microscopy. As a result, the patient was referred to our hospital for examination and treatment. Physical examination results were normal. The laboratory results, including blood count, serum tumor markers and liver and renal function, were within the normal range. The CT images acquired at the local hospital showed a 10.0 × 8.0 cm well-circumscribed mass in th",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Crizotinib"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 971,
+    "text": "This previously healthy 3-year-old boy presented with renal failure, haemolytic anaemia, thrombocytopenia and hypertension in the absence of a preceding diarrhoeal illness. The diagnosis of aHUS was confirmed by renal biopsy, which showed diffuse glomerular basement membrane thickening and splitting with subendothelial fibrinoid deposition. Endothelium swelling associated with wall thickening in some arteries was also visible. Neither glomerulosclerosis nor tubular atrophy was observed. The clinical evolution is outlined in Fig. . Dialysis (initially hemodialysis and subsequently peritoneal dialysis) was started because of salt and water retention. The patient was never anuric, and the maximum plasma creatinine level was 270 µmol/L. Dialysis was stopped after 2 months when the plasma creat",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 707,
+    "text": "A 68-year-old man presented with pigmented patches on the ball of left great toe of 6-year duration and red nodule over the left great toe for the last 6 months. He does not remember the evolution of the pigmented lesions and was not bothered as it was asymptomatic. However, he noticed a small nodule on the normal skin on the left great toe 6 months back following trauma, which on meddling resulted in bleeding. The nodule continued to grow to reach present size with recurrent episodes of bleeding and pain with no sign of healing. Cutaneous examination revealed red nodule on the medial aspect of left great toe, medial to the nail fold of size 2 × 1.5 cm, tender and bleeding on touch []. Multiple irregular jet black macules and patches spread on the plantar aspect of left great toe []. Singl",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Routine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 223,
+    "text": "A 42-year-old female patient was referred to the Department of Gastroenterology at the Second Clinical College of Yangzhou University, for long-standing complaints of solid and liquid dysphagia accompanied by episodes of regurgitation. She underwent two upper digestive endoscopies, on which the presence of food residues in the esophageal lumen and rebound passage through the gastroesophageal junction was observed. Gastroesophageal contrast radiography showed slight dilatation of the esophagus, an absence of primary peristalsis but presence of aperistaltic waves, and a narrow distal esophagus with a ‘bird’s beak’ aspect (Fig. ). A CT scan was performed, but was unremarkable and did not reveal any esophageal lesion. Esophageal manometry demonstrated a hypertensive lower esophageal sphincter",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1537,
+    "text": "A 79-year-old Korean woman was referred to our hospital for an incidentally detected subepithelial lesion in the stomach. Her medical history and alcohol intake, smoking history, and recent drug use were unremarkable. A physical examination did not reveal significant abnormalities. The routine laboratory tests conducted at the time of referral to our hospital were within the normal ranges.Abdominal computed tomography (CT) showed a well-defined, intramural, heterogeneous mass lesion in the gastric body. The mass was oval-shaped and exhibited an enhanced pattern after contrast medium injection. In addition, no enlarged lymph nodes or distant metastasis in other organs around the stomach were observed (Figure ).In an endoscopic examination of the upper gastrointestinal tract, we observed tha",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Within"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1357,
+    "text": "A 55-year-old male who was a known case of cancer of floor of mouth came to the outpatient department with complaints of difficulty in swallowing and burning sensation in the oral cavity for the past 3 months. The pain was insidious in onset, burning, and stinging in nature and radiating to the earlobe. The patient reported that he had not taken his meals properly for the past 10 days and appeared very distressed. He reported restriction in mouth opening and alteration of taste for the past 3 months. He, therefore, was not on any medications as oral intake was very poor. He revealed that he had consumed lice poison (pyrethrins) 5 days back, while feeling hopeless due to his pain.\nThe patient was diagnosed 1 year ago, when he presented in the head and neck clinic with an ulcer in the floor",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 568,
+    "text": "A 57 year old quadriplegic male was brought to the hospital with complaints of presyncope, fall from his wheelchair and ongoing substernal chest pressure of a few hours duration. Past medical history included Non-ST elevation myocardial infarction (NSTEMI) with a drug eluting stent (DES) placed in the right coronary artery (RCA) three years ago, paroxysmal atrial fibrillation and quadriplegia secondary to trauma in a motor vehicular accident ten years ago. He was a non-smoker and a resident of a long term nursing care facility. His home medications included aspirin, metoprolol, simvastatin and warfarin. Initial vital signs were stable. Physical examination was unremarkable except for quadriplegia. Initial laboratory data revealed a normal hemogram and basic metabolic panel but an elevated",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1230,
+    "text": "A 30-year-old Caucasian female patient was admitted to our Hospital in February 2009, due to prominent, localized loose and sagging skin of abdomen, with reduced elasticity and resilience which gave her prematurely aged appearance induced by prior cesarean section 6 years ago (Figures and ). One month after cesarean section due to prolonged labor, she noticed the development of loose, wrinkled skin of abdomen without any sign of inflammation. The patient was treated by her gynaecologist with topical emollients, but with no result. At that time, patient refused reconstructive surgery of the redundant abdominal skin and had second cesarean section 3 years ago due to prolonged labor.\nOn admission to our Hospital her height was 175 centimeters and weight was 60 kilograms, body mass index was n",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Skin",
+        "Routine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 612,
+    "text": "A 70-year-old male presented to the hospital with complaints of severe headache, confusion, and gait instability. He became progressively obtunded in the emergency department. A non-contrast computed tomography (CT) of the head demonstrated diffuse SAH and ventriculomegaly (Figure ). The patient was intubated and an external ventricular drain (EVD) was placed. He demonstrated mild improvement in alertness after cerebrospinal fluid (CSF) diversion. Cerebral angiography was performed and demonstrated tumor blush in the posterior fossa with an associated intratumoral aneurysm arising from a right posterior inferior cerebellar artery (PICA) branch (Figure ). Magnetic resonance imaging (MRI) demonstrated a 3 cm enhancing lesion in the area of the cerebellar vermis (Figure ). In an effort to red",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 877,
+    "text": "A 7-year-old boy underwent the Nuss procedure at the age of 5 years for funnel chest wherein bar displacement occurred, and the Nuss method was performed a second time at the age of 6 years at the same hospital. However, even after the second surgery, the bar displaced, and he visited our hospital. The preoperative photograph showed strong depression on the left, centering on the solar plexus from the lower end of the sternum, and the ends on both sides of the bar protruded subcutaneously [Figure and ]. The pretreatment radiograph taken at the previous hospital showed a depression below the sternum []. The bar was placed horizontally immediately after the first surgery []. In the radiograph obtained 5 months after the first surgery, there was displacement toward the foot side []. The angle",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 524,
+    "text": "A 28-year-old male reported to us with the chief complaint of sharp pain in mandibular anterior region 2 days back. He was apparently alright 2 months back when he noticed small lesion developing in the area of chief complaint. The lesion slowly increased in size and was associated with dull pain which aggravated 2 days back manifesting as sharp pain which led him to report to the department. Intraoral examination revealed a lacerated lesion involving the attached gingiva and alveolar mucosa in relation to mandibular incisors () measuring 9 mm × 4 mm × 2 mm. There was no exposure of bone in the affected area. He had a history of habit of picking the mandibular anterior area with a matchstick which led to this laceration. He had a history of suspension from his job a year back and admitted",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Benzocaine",
+        "Mucopain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1250,
+    "text": "A 19-year-old female patient was referred to the Department of Oral and Maxillofacial Surgery by the Department of Oral Medicine for the diagnosis and management of a painless “swelling” in the left buccal mucosa. The intraoral swelling was noticed by the patient 1 year back. According to the patient, the swelling had recently enlarged interfering with her mastication. No changes of size or development of swelling during meal times were reported. The patient was in apparent good health and her medical history was non-contributory.\nClinical examination showed a 3 × 2 cm swelling in the left buccal mucosa, which was freely movable. Intra-orally, it was covered by a mucosa of normal texture and color. On digital palpation, the swelling was non-tender, non-fluctuant, and rubbery in consistency",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Medicine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 430,
+    "text": "An otherwise healthy 30-year-old woman presented with a five-year history of syncopal episodes, moderate to severe headaches, intermittent diplopia, vertigo, and tinnitus. No focal neurological deficits were noted on examination. CT scan of the head showed a cystic lesion in the pineal region extending into the posterior third ventricle and causing significant mass effect on the midbrain, superior cerebellar vermis, and thalamus. MRI of the brain () demonstrated a 3.7 × 2.2 × 2.7 cm cystic pineal lesion with no enhancement of the cyst wall except for a thin septation seen posteriorly and mild hydrocephalus.\nThe patient underwent a stereotactic right occipital craniotomy with complete resection of the cystic pineal mass via a transtentorial interhemispheric approach. The procedure was perfo",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Routine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 438,
+    "text": "A 33-year-old Caucasian man was admitted to the Emergency Department of our hospital with acute abdomen and sepsis following a surveillance colonoscopy five days earlier at another hospital unit. He had previously been fit and well, although he had had two corrective surgeries for congenital talipes equinovarus in childhood and early adolescence. His family history was notable for CRC on the maternal side of his family. His mother and grandmother had died from colonic malignancy (his mother at age 42 years), and his cousin had been diagnosed with CRC at age 21 years. Furthermore, his maternal aunt had been diagnosed with endometrial cancer in her 40s and had recently been found to carry a mutation in the gene hMSH2, which is associated with hereditary non-polyposis colorectal cancer (HNPCC",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 596,
+    "text": "A 54-year-old man with a clinical diagnosis of herpetic keratitis had undergone penetrating keratoplasty in the left eye 6 years previously for recurrent keratouveitis, which resolved after periodic treatment with ACV ointment and a topical steroid. The patient had ocular pain and redness in his left eye and periodically received topical antibiotics and a steroid for 1 month; however, the symptoms gradually worsened despite treatment, and he was referred to our clinic. The best-corrected visual acuity in the affected eye was 20/2,000 and the intraocular pressure was 10 mm Hg. Slit-lamp examination showed a small abscess with corneal erosion in the peripheral donor cornea that manifested as a suture abscess with corneal infiltrates, mild ciliary injection, and no anterior chamber inflammati",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Epstein"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1023,
+    "text": "A 70-year-old, right hand dominant, otherwise healthy and active, female presented to our clinic three (3) months after falling onto her left shoulder. She was initially treated elsewhere nonoperatively with sling immobilization and limited physical therapy. Upon presentation to us, she complained of persistent lateral shoulder pain and limited function in her left arm. Physical examination revealed her to be neurovascularly intact with no deltoid deficiency. She had limited active motion and painful passive motion associated with crepitation. Radiographs revealed a two-part, varus-angulated malunion with a large spike of bone protruding laterally, without evidence of AVN (). The natural history, prognosis, treatment options, potential complications, and expected outcomes for both operativ",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1498,
+    "text": "A 66-year-old man with a history of infiltrative vesical carcinoma treated with intravesical immunotherapy 13 years previously was referred for recent-onset pain in the pelvic girdle. Pain was assessed by a visual analog scale (VAS) at 8/10 and was much increased with walking, which was limited to a short distance and required the use of a crutch. CT revealed extensive osteolytic metastasis involving almost all the right iliac wing and acetabulum together with the right sacral wing (\n). Bone scintigraphy and 18F-FDG PET/CT revealed multiple other skeletal lesions. Biopsy of the pelvic bone revealed an epidermoid carcinoma. A vesical biopsy gave negative results, but because the prostate was clinically enlarged and the prostate-specific antigen level was increased (5 ng/mL), a prostate biop",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Pain",
+        "Skin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1450,
+    "text": "A 26-year-old Caucasian man with end-stage renal disease received kidney transplantation from a deceased donor in October 2013 after having performed chronic peritoneal dialysis and hemodialysis for seven years. He had suffered from juvenile rheumatoid arthritis since early childhood. Because the patient had initially been admitted with end-stage renal disease, his primary renal diagnosis was unknown, but secondary amyloidosis due to rheumatic disease was suspected.\nThe patient received induction therapy with basiliximab followed by an immunosuppressive regimen consisting of tacrolimus, mycophenolate mofetil (MMF), and prednisolone. Because of CMV mismatch he also received valganciclovir prophylaxis. He was discharged ten days after transplantation with serum creatinine of 83 μmol/L. On da",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Within"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 475,
+    "text": "A 50-year-old man, slaughter house worker by occupation, presented in August 2019 with an episode of loss of consciousness with subsequent right-sided weakness and giddiness. He was a tobacco chewer since the past 20 years. He was not a known diabetic or hypertensive and was presently not on any medications. The past history revealed that he was a treated case of DLBCL 5 years back. He had then presented with enlarged lymph nodes in the left supraclavicular region and multiple abdominal lymph nodes. His disease was confirmed on biopsy and his bone marrow was uninvolved. For the same, he was treated with six cycles of Dose Adjusted Rituximab, Etoposide, Prednisolone, Vincristine, Cyclophosphamide, Doxorubicin (R-EPOCH) regimen. In view of low cell counts during chemotherapy and an episode o",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Rituximab",
+        "Etoposide",
+        "Vincristine",
+        "Cyclophosphamide",
+        "Doxorubicin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1350,
+    "text": "A 32-year-old man, who played nonprofessional baseball, consulted our hospital for chronic low back pain. Within the last year he had experienced a severe episode of pain during flexion, for which he was successfully treated with an intradiscal steroid injection. His diagnosis was discogenic pain with an HIZ in the posterior corner of the L4-5 disc. After experiencing a second episode of severe low back pain during flexion, he was referred to our hospital. He complained of low back pain during lumbar flexion and slight pain during extension. However, no leg symptoms were present and all neurological signs were normal.\nshows the MRI findings just after the second episode. The disc showed degeneration with a slight protrusion; however, the HIZ was not so obvious. We conducted discography and",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Within"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 40,
+    "text": "A 45-year-old male patient presented with persistent pain and effusion at the lateral aspect of his right knee. He underwent an uneventful ACL reconstruction ten years before, with total functional recovery and no instability or pain symptoms after full rehabilitation postoperative program. For ACL graft fixation, a bioabsorbable crosspin was used at the femur and a bioabsorbable interference screw was used at the tibia. The patient reported that he did not suffer any trauma, increased sports activity level, or other remarkable events in the weeks or months prior to the moment when pain and effusion started. The patient was first treated at another centre where femoral crosspin loosening was noted. After a magnetic resonance image (MRI) showed an intact ACL graft and no other complications",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Plain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1543,
+    "text": "A 59-year-old male with a past medical history of hypertension, hyperlipidemia, chronic pain taking opioids, chronic obstructive pulmonary disease, gastroesophageal disease, and recently diagnosed coronary artery disease status post stent placement in the setting of acute coronary syndrome, presented for a follow-up cardiology appointment after a recent visit to the emergency department for coughing spells and right-sided flank pain. Of note, eight months prior, the patient was found to have critical stenosis of the distal right coronary artery when he was admitted to the hospital with acute coronary syndrome and was treated with percutaneous coronary intervention and medical management. His medical therapy included guideline therapy of atorvastatin, lisinopril, metoprolol succinate, and d",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 736,
+    "text": "We report a male baby born in a peripheral setting at 36 weeks of gestation to a 36 year old primiparous mother whose pregnancy was complicated by breech presentation and premature rupture of membranes at 34 weeks of gestation. Delivery was by emergency caesarean section with maternal general anaesthetic for fetal distress and cord prolapse. Apgar scores were 4, 5, 5, and 8 at one, five, ten and fifteen minutes respectively. He required mask ventilation at birth for primary apnoea and was intubated at seven minutes of postnatal age for persistent apnoea. At 30 min of life he was extubated to CPAP of 5 cmH2O and FiO2 was weaned from 100 to 44%. On these settings he had a tachypnoea of 90 breaths per minute with mildly increased respiratory effort and a pre-ductal oxygen saturation of ≥97%.",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 574,
+    "text": "A 29-year-old lady presented to the surgical out-patient department with the complaints of pain at the periumbilical region for one day which later shifted to the right iliac region. Pain abdomen was associated with 2–3 episodes of vomiting and anorexia. There was no history of fever, burning micturition, black-colored stool or passage of reddish urine. She gave no history of such illness among the family members, not any history of surgery in the past. She took pain killers for the associated pain. Clinical examination revealed tenderness on palpation in the right iliac fossa with rebound tenderness. Laboratory examination showed total leucocyte counts of 11,300/mm3 with neutrophilia (80%) and serum amylase of 98 U/l. Ultrasonography abdomen showed features of acute appendicitis with wall",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Pain",
+        "Nitrofurantoin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 331,
+    "text": "The patient was a 1.5-year-old boy who was admitted to the hospital with a primary complaint of fever, diarrhea, and vomiting. At the beginning of the hospitalization, the patient had a generalized clonic-tonic seizure. The patient was dispatched to our intensive care unit on the fourth day of admission due to reduced consciousness.\nPatient is the first child of a family and is resident of the village. He had a history of pneumonia at 6 months of age. There was a history of seizure of fever in his family. From the outset, he was treated with ceftriaxone, vancomycin, phenytoin, and acyclovir. The growth and development were normal.\nThe patient had tachypnea and tachycardia, and fever was 39°C. Percent oxygen saturation without getting oxygen was 98%. It was toxic and had GCS = 8. The patien",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Albumin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 55,
+    "text": "We present the case of a 28 year-old lady with a history of intravenous drug use who presented to our institution with symptomatic right heart failure secondary to tricuspid valve regurgitation. She presented with infective endocarditis leading to dyspnoea, peripheral oedema and congestive hepatomegaly secondary to torrential tricuspid regurgitation. She abstained from intravenous drugs and had been maintained on methadone therapy prior to her surgery. Transthoracic echocardiography confirmed tricuspid valve endocarditis and severe tricuspid regurgitation with evidence of right ventricular dysfunction and congestive hepatomegaly. Based on positive serial blood cultures (Staphylococcus aureus) and echocardiographic findings, antibiotics were commenced (IV Flucloxacillin and IV Vancomycin) a",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Flucloxacillin",
+        "Vancomycin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1021,
+    "text": "A 79-year-old right-handed male with a medical history of diabetes, hypertension, coronary artery disease, and chronic kidney disease underwent the EVAR procedure with a left renal stent for an incidental finding of a juxtarenal AAA on CT scan (). According to the vascular surgery operative report, the procedure was completed successfully through access of the bilateral femoral arteries and the left brachial artery (). After the procedure, there was no immediate recognition of any major complications other than a small contained hematoma at the brachial catheter insertion site that formed after withdrawal of the catheter.\nThe patient then presented to our outpatient pain management clinic 2 months following the procedure with symptoms of atrophy and weakness of the left forearm and pain in",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 801,
+    "text": "The patient was a 30-year-old G2P0010 who presented to our fertility center seeking fertility treatment. She had a medical history of polycystic ovarian syndrome (PCOS) and her partner had a diagnosis of male factor infertility. She had no prior surgical history, no known allergies, and medications included prenatal vitamins. She denied any history of sexually transmitted infections and had a normal hysterosalpingogram and saline sonohysterogram. Her first IVF cycle with an elective single embryo transfer resulted in a negative pregnancy test. Her second IVF cycle used a GnRH antagonist stimulation protocol and she was triggered with Ovidrel on stimulation day 12. Twenty-two oocytes were retrieved. On day five a single fresh blastocyst was transferred using a pass through technique under u",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Medicine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 294,
+    "text": "A 30-year-old ambidextrous female with intractable seizures was evaluated in Epilepsy Department as a surgical candidate. Seizure onset was at the age of 17 years, when the patient presented with a prolonged episode of darkening of vision described as blackening associated with a ventilator-like movement. She was discharged on carbamazepine monotherapy and remained free of auras and seizures for eight years. At the age of 25 years, the patient started having recurrent complex partial seizures occurring on a weekly basis. At the time of presurgical evaluation, and despite previous adequate trials of six other antiepileptic medications, she had almost daily seizures. These seizures were heralded by a feeling of jamais vu followed by arrest of activity, wide-eye stare, tremor of the left arm",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Brain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 855,
+    "text": "A 33-year-old male bank employee presented to our outpatient department with a 4 month history of dry cough, and breathlessness on exertion associated with wheeze. He was a nonsmoker and teetotaller. There was no history of high risk behavior, but he had a history of exposure to pigeons in his house for the past 1 year. He had a history of being treated with empirical antituberculous therapy for an exudative pleural effusion 2 years ago. For his current symptoms, he had been initially treated by his local physician with antibiotics and inhaled bronchodilators, but his symptoms persisted. At presentation, he had no neurological symptoms.\nPhysical examination revealed decreased breath sounds on the whole left hemithorax. Vital signs were stable. Initial investigations such as total leukocyte",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 729,
+    "text": "The patient was a 27-year-old gravida 7 para 4 who presented with vaginal spotting at 23 weeks and 2 days of gestation. Her obstetric history included 4 preterm deliveries and 1 spontaneous abortion at 16 weeks. Her cervix was 4–5 cm dilated with a bulging bag. Ultrasound showed a live pregnancy with breech presentation, as well as a placental mass with differential diagnosis of a chorioangioma measuring 10x40 mm. Cervical length was unable to be accurately measured secondary to the anatomical changes. The patient was counseled and she consented to undergo amniocentesis and rescue cerclage placement. The amniocentesis showed a karyotype of 46XX. A cerclage was placed using the McDonald technique. The patient also received betamethasone for fetal lung maturity secondary to the risks for pre",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 198,
+    "text": "A 31-year-old Caucasian man presented to the emergency room with palpitations associated with shortness of breath and lightheadedness. He was diagnosed with ADHD at 15 years of age and was prescribed mixed amphetamine salts. His starting dose of mixed amphetamine salts was 7.5 mg and he took it for 5 years after the diagnosis. He restarted taking it 6 months prior to presentation as his symptoms were interfering with his daily activities. He had been prescribed 20 mg of mixed amphetamine salts twice daily but three months back had cut back on his dose to 20 mg once a day, on account of intermittent self-limiting episodes of palpitations lasting 5–10 minutes. He did not seek medical attention for these symptoms. On the day of presentation, he had taken mixed amphetamine salts 20 mg in the m",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1088,
+    "text": "A 24-year-old Caucasian man presented with a several month history of muscle pain, fatigue and insidious onset of pitting edema to his lower extremities. His symptoms progressed to include bilateral arm swelling, muscle pain to the thenar eminence of both hands, and paresthesias to his hands. He did not have a rash, joint pain, Raynaud phenomenon, oral ulcers, fever, hardening of the skin or weight loss, and he denied any cardiac, respiratory, genitourinary, or gastrointestinal symptoms. Prior to symptom onset, he had traveled to South America and reported possible ingestion of undercooked meat as well as swimming in a river and lake. He had frequent visits to the Northeastern United States and had recently spent an extended period of time outdoors in Rhode Island. Medical, surgical, and f",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 89,
+    "text": "A 66-year-old man was referred to our hospital for further treatment of ORN of the mandible. He had undergone dental implant treatments on both sides of the mandible (#35, #36, #45, and #47) 7 years previously. All of the implants were osseointegrated and charged. The patient had been followed up regularly by his dentist, and the clinical course had remained uneventful. He experienced left oropharyngeal carcinoma and was treated with external radiotherapy of total dose 70 Gy 2 years after the implant treatment. Medical records revealed that his left mandible was included in the radiation field. He began to experience spontaneous pain and gingival swelling around the left mandibular implants 4 years after the oncologic radiotherapy. Under a clinical diagnosis of peri-implantitis, conservati",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 274,
+    "text": "A 53-year-old Caucasian woman presented to our Emergency Department with acute-onset speech impairment and coordination defects. She awoke in the morning to notice that when she took her dog for a walk that she had difficulty manipulating the leash and felt clumsy with her right hand. She also had difficulty with her memory in that she placed a water bowl down for her dog but forgot to place water in it. She felt disorganized with her thoughts and was concerned enough to call her brother, who noticed that her speech was slurred. Emergency medical services were activated and the patient was brought to PIH Health Hospital. She had no complaints of any headache, double vision, difficulty swallowing, vertigo, numbness, or focal weakness. There was no lapse of consciousness nor were there any d",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 125,
+    "text": "A 5-year-old child resident of Delhi, India, was shifted to a quarantine facility with his mother in early April as he was diagnosed with highly contagious illness of COVID-19.\nHe had a history of contact with COVID-positive patients and had mild symptoms which included runny nose and dry cough. His mother and other family members tested negative. Since he was a young child and could not be quarantined alone, so his mother was quarantined with him as his caregiver. He was a perfectly healthy child, and this was the first time since birth he was admitted in a hospital facility.\nThe child, initially, felt intrigued, but this did not last long. He realized that his mother was not letting him share her bed and maintaining distance with him and he was not allowed to go out. There was no televis",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1189,
+    "text": "A 14-year-old boy, was brought to us by his mother for complaints of behavioral change for the past one month. She reported that he has not been working properly. He would demand for money and would go out frequently to watch movies. He would remain outside house for most time and talked a lot. He would look more cheerful then before and would not obey family members, and easily became irritable and angry. His hygiene and grooming also was increased and he would take bath 3-4 times a day. At home, he would keep pacing here and there. His sleep was markedly decreased from 7-8 h before to 3-4 h and the patient would not report any fatigability. There was no past or family history of any psychiatric illness. Mental status examination revealed a restless boy, with increased psychomotor activit",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Routine",
+        "Olanzapine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 202,
+    "text": "A 25 year old man presented with a one week history of rapidly progressive simple and complex motor (e.g. nodding, pointing, head shaking and turning, looking, blinking, hitting) and vocal (e.g. shouting, humming) tics including motor and vocal echo and possible blocking phenomena, all of which he attributed to the cessation of his recreational use of cannabis a few weeks ago. For at least one year he had consumed daily to relief the ��urge to move the legs in the evening” that started two years ago. Back then he first noticed short twitching, disturbing movements in his legs at night, later during the daytime as well. For several years before that, he had experienced episodes of diffuse urgency to move his legs but had never had any tics or other visible unconsciuos movements. Suppressing",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Baseline"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 171,
+    "text": "A 1-month-old male child presented with a rapidly growing mass in the right side of the face for 20 days. There was decreased oral intake noticed by the mother. There was no history of trauma, loss of weight, or any other swelling in the body. The child was a full-term normal vaginal delivery with birth weight of 2.6 kg. The antenatal, natal, and postnatal period of the mother was uneventful. General physical examination including the systemic examination was within normal limits. Local examination revealed a 10 cm × 5 cm × 5 cm nontender, firm, deep-seated swelling in the right side of face involving the zygomatic and maxillary region. The overlying skin did not show any ulceration or discoloration. Intraoral examination revealed a bulging mass from the roof of oral cavity []. Routine blo",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Routine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 327,
+    "text": "A 21-year-old female presented to the Case Western Reserve University School of Dental Medicine Clinic in Cleveland, Ohio. Her chief complaint was a slowly growing painless swelling involving the right side of the mandible that had started one year previously. Her past medical history revealed no previous surgeries or diseases. Her vital signs were recorded as 120/80 mmHg blood pressure, a pulse of 103 beats per minute (bpm), 15 respirations per minute, height - 5.1 ft, weight - 165 lb, and a calculated body mass index (BMI) of 23.71. No other medical conditions were identified, and the patient did not report taking any medications. Clinical examination revealed an intraoral swelling involving the posterior part of the body of the mandible and extending to the ramus on the right side. On p",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "School",
+        "Medicine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 586,
+    "text": "A 48-year-old Caucasian female was found unresponsive at the scene of a house fire with burns to the face [<1% total body surface area (BSA)] and inhalation injury. She was intubated via endotracheal tube at an outside facility and subsequently transferred to our burn center for definitive care. The initial bronchoscopy showed diffuse carbonaceous sputum with pale friable mucosa extending throughout the airways distally. The patient was intubated for airway protection, which required adequate sedation and neuromuscular blockade. Due to the inability of the patient to provide a detailed medical history, the patient’s sister and psychiatrist supplied the relevant information, which included a diagnosis of severe depression with psychotic features. On admission, the patient’s list of home med",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 956,
+    "text": "A 46-year-old premenopausal woman underwent mastectomy and axillary clearance in 1993 for multifocal right breast malignancy. Histology demonstrated an 8 mm grade 1 carcinoma and 10 and 25 mm grade 3 carcinomas. There was no nodal involvement. Hormone receptor status was not assessed but she was prescribed adjuvant tamoxifen for 5 years.\nAlmost 10 years later, in December 2002, our patient underwent a left mastectomy and axillary clearance for a 23 mm grade 3 invasive ductal carcinoma showing vascular invasion and involving 2 axillary lymph nodes. The carcinoma was only focally ER positive and PR negative, but c-erbB2 strongly positive. She received adjuvant chemotherapy [6 cycles FEC] and chest wall radiotherapy, and in view of the albeit weak ER positivity, she was started again on tamox",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1649,
+    "text": "A 33-year-old woman with parity 1-0-2-1, was referred to obstetric department for early pregnancy in October 2013. She has been diagnosed as pyoderma gangrenosum and had a history of admission to dermatology department of Seoul National University hospital from July 1st to August 3rd in 2012. Her dermatologist sent her to obstetric department for consultation of antenatal management immediately after recognition of current pregnancy. At her first office based visit, transvaginal ultrasound examination was performed and normal intrauterine pregnancy was confirmed. Estimated gestation age was about 7 weeks.\nThorough history taking and record review were followed. In June of 2011, she delivered a healthy female child at term by emergency cesarean section with lower uterine segment transverse",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1608,
+    "text": "This is a case of a 68-year-old female presented to the clinic for a 2-month history of recurrent left ankle pain, associated with swelling and edema. The patient had a history of thyroid follicular adenocarcinoma which was treated surgically with total thyroidectomy and postoperative iodine treatment 25 years prior to presentation. At 12 years post thyroidectomy, she was diagnosed with a calcaneal mass of the same pathology and diagnosed with delayed distant thyroid carcinoma metastasis to the calcaneus. 10 years after calcaneal mass excision, the patient was diagnosed with a proximal tibial mass that turned out to be also delayed metastasis of the same pathology.\nAt the first presentation 15 years ago, she initially presented complaining of mild edema of the left ankle with intermittent",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Plain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1451,
+    "text": "A 33-year-old lady with G4P3L3 had presented to Emergency Department (ED) of Dhaulagiri Hospital, Nepal, with history of amenorrhea for 43 days and irregular vaginal bleeding for the past 2 weeks with partial soaking of one pad per day. She also had abdominal pain and occasional dizziness on the day she visited the ED. She also gave history of having regular menstruation cycle in the past. Her last child birth was 9 years back. She had been using Copper T (Cu T 380A) as a form of contraception for last 5 years. She gave no history of use of any form of contraception prior to that. She is nonsmoker and gave no history of any medical or surgical illnesses in the past.\nShe was well oriented to time, place, and person but looked pale. Her blood pressure was 110 mm Hg systolic and 60 mm Hg dias",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 725,
+    "text": "A nine-year-old female presented to the dermatology department with complaints of hair loss, scaling, burning sensation, concomitant pain, and itching of the scalp. She also mentioned the recent development of purple lesions on her neck and back. The patient had visited a couple of general practitioners over the past year and her condition was interpreted as seborrheic dermatitis. She was treated with ketoconazole and selenium sulfide shampoo; however, her symptoms failed to improve. The onset of hair loss and purple-colored lesions eventually prompted a specialist referral. Based on the assessment of her parents, hair fall started approximately six months ago. It was gradual in onset and limited to the vertex of the scalp. There was no history of any endocrine dysfunction, autoimmune dise",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 667,
+    "text": "The patient was a 63-year-old Caucasian male who presented to our hospital for evaluation and management of persistent, severe neutropenia and recurrent infections requiring intravenous antibiotics. He had previously been evaluated at multiple other hospitals, but neither the etiology of his neutropenia nor an effective therapy could be found. He had a past medical history of malignant melanoma that had been excised 29 years prior to being seen at our facility, squamous cell carcinoma of the laryngopharynx that had been treated with surgical resection and radiation therapy 19 years prior to admission, recently diagnosed heart failure with reduced ejection fraction, splenomegaly of unknown etiology, recent deep vein thrombosis (DVT) and pulmonary embolism (PE) managed with warfarin, and hyp",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 996,
+    "text": "A healthy 37 year old African American female with no significant past medical history presented to the plastic surgery service for treatment of a recently diagnosed sebaceous carcinoma of the scalp. She denied any personal or family history of previous skin cancers or other malignancies. On first exam, the thickness of her scalp was not initially appreciated. However, during the surgical procedure, her scalp was noted to have a ‘sponge-like’ consistency and was noted to be thicker than normal tissue. An increased egress of fluid or increased bleeding was not noted during the operation. Due to the concern for possible satellite metastasis, a biopsy of her scalp was taken from the area inferior to the excision site (as seen in ) and submitted for frozen section, which was interpreted as neg",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1231,
+    "text": "A 16-year-old Bangladeshi girl presented to our hospital with hoarseness of voice which had been gradually worsening over the past 4 months. She was treated earlier by the local physician with antibiotics. On evaluation with a fiberoptic endoscopy, she was found to have a polyp in the anterior 2/3 of the right vocal cord with impaired right vocal cord mobility. She underwent excision of the polyp, and subsequent histopathology showed well-differentiated squamous cell carcinoma. She was then referred to the oncology clinic for further management.\nShe had no history of using tobacco or consuming alcohol. She had a history of exposure to passive smoke. She did not have a past history of any laryngeal surgery or exposure to radiation/carcinogenic agents; there was no family history of malignan",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 51,
+    "text": "A 74-year-old woman who suffered from pancreatic adenocarcinoma of the corpus, including peritoneal and bone metastases, had received palliative chemotherapy with gemcitabine for eight months; however, she switched to concomitant chemoradiation due to painful symptomatic primary tumor progression. Treatment consisted of percutaneous modulated arc radiotherapy with single doses of 3.0 Gy five times a week up to a total dose of 36.0 Gy. The planning target volume was 102 ccm. Radiation was combined with fluorouracil (225 mg/m2/d) as continuous infusion.\nFour weeks after the completion of chemoradiation, the patient presented in the emergency room with vomiting and rapidly increasing pain in the upper left abdomen, and gastrointestinal obstruction due to progressive disease was suspected. Com",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Within"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 849,
+    "text": "A 29-year-old male patient, without any significant past medical or surgical history, presented with hematemesis complaints about three days, coffee ground color, and sometimes bright red color containing clots. He also had a history of melena for the past three days. The patient did not have any history of abdominal pain or history suggestive of liver disease. He was non-alcoholic and non-smoker. The patient had presented to a local hospital, where blood transfusion was done, and he was referred to our hospital for further management. On presentation patient was dehydrated, severe pallor and tachycardia were present. Initially, the patient was managed conservatively with intravenous fluids and blood transfusion.\nUpper gastrointestinal endoscopy was done, which showed normal mucosa of the",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 792,
+    "text": "A 25-year-old male with a history of intermittent abdominal pain for the last six months was admitted to our emergency department complaining of intractable postprandial abdominal pain, along with bloody vomiting. Having been subject to a preliminary evaluation in our emergency department, the patient was transferred to the gastroenterology clinic for further investigation and treatment, where oral intake was stopped and replaced with parenteral replacement therapy. The patient’s medical background revealed nothing remarkable other than recurrent epigastric pain. He also had a history of receiving proton pump inhibitor drugs on an irregular basis. Upon physical examination, his general clinical status was good, with stable vital parameters. A palpable mass of 5 × 5 cm, along with tendernes",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1513,
+    "text": "A 42-year-old G7P1051 presented at 39 weeks estimated gestational age for a scheduled elective repeat low transverse cesarean section with bilateral tubal ligation. Two years earlier, she had undergone a low transverse cesarean section for arrest of descent. Following that delivery, she had an episode of moderate dyspnea that spontaneously resolved without evaluation or treatment. Her medical and surgical history was otherwise unremarkable. During the current pregnancy, her antenatal course was complicated by class A1 gestational diabetes mellitus treated with diet.\nOn the day of her cesarean delivery, her vital signs and physical exam were normal, and her hemoglobin was 12.6 gm/dl. Her surgical procedures were unremarkable and the estimated blood loss was 600 mL.\nApproximately twelve hour",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1332,
+    "text": "We report a case of an 11-year-old girl who presented to the Emergency Department for diffuse pain of the left hip after a fall. Her medical and family history was unremarkable. A clinical examination showed mild, diffuse swelling of the left hip. The swelling was firm and non-tender, with moderate to severe painful manipulation. This was associated with pain-related decreased mobility of the hip. The patient was unable to walk. Plain radiography of the left hip in the frontal and lateral views showed an extensive osteolytic lesion in the proximal metaphyseal femur and femoral neck with thin sclerotic margins, with no invasion of the growth plate (). Magnetic resonance imaging and a computed tomography (CT) scan of the hip showed the presence of an ABC in the proximal third of the left fem",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Plain",
+        "Pain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 480,
+    "text": "The second patient was a 5-year-old girl who presented to the office with a history of receiving a diagnosis of FSGS at the age of 3.5 after proteinuria was identified when she presented to her pediatrician experiencing new onset enuresis. The family sought care from the authors due to chronic symptoms and illnesses in all family members and history of exposure to water-damaged environments in past and current homes. Due to the father's work, the family has moved frequently. They recall evidence of water damage and mold in several of their previous homes and confirmed the presence of elevated levels of indoor mold in their current home. The patient's diet was typical for her age and did not include excessive consumption of foods known to contain elevated levels of ochratoxin.\nTesting indic",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Urine",
+        "Aflatoxin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1394,
+    "text": "A 33-year-old female patient reported to the Outpatient clinic, in March 2007, with the chief complaint of mobility of the lower front teeth since three months. The patient was systemically healthy. Clinical examination revealed generalized gingival inflammation, bleeding on probing, and generalized probing pocket depths of 6 mm to 8 mm, and generalized clinical attachment loss of 3 mm to 4 mm. Grade III mobility was elicited in relation to 42 and 31. A provisional diagnosis of Generalized Chronic Periodontitis was made, which was well-supported by the supplemental evidence of generalized horizontal bone loss, as observed in the Orthopantomograph [] and a full set of intraoral periapical radiographs taken. A final diagnosis of Generalized Chronic Periodontitis was established, followed by",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Xylocaine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1477,
+    "text": "A 62-year-old Indian male presented to the emergency department with complaints of one episode of presyncope 2 days back. He also had history of syncope about 2 weeks prior to presyncope with trivial trauma to neck. He did not complain of any abdominal or chest symptoms, and there was no history of nausea, vomiting, headache, dizziness, blurring of vision, or focal neurological deficit. He first sought medical attention at secondary care center where he was detected to have sinus bradycardia (). He was diagnosed as a case of sick sinus syndrome and referred to our center for permanent pacemaker implantation. The past, personal, and family history was noncontributory. On general physical examination, the patient was seen to be anxious. The heart rhythm was regular with a rate of 40 beats/mi",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Immediate"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 713,
+    "text": "A 64-year-old, 87 kg female presented for clipping of a 4 mm wide neck unruptured saccular anterior communicating artery aneurysm which was discovered incidentally during the evaluation of headaches and memory difficulties. Her past medical history was significant for remote breast carcinoma, hypertension, obstructive sleep apnea, and gastroesophageal reflux disease. She was a lifelong nonsmoker and notable preoperative medications included aspirin, furosemide, and propanolol. Preoperative imaging had no evidence of prior infarcts. After induction of anesthesia, a right internal jugular central venous catheter and radial arterial catheter were placed and maintenance of anesthesia was performed with a combination of 0.5 MAC sevoflurane, propofol 50 mcg/kg/min, and remifentanil 0.125 mcg/kg/",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Mannitol"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 980,
+    "text": "A 53-year old female was admitted to the Intensive Care Unit of Kingston General Hospital in Kingston, Ontario, Canada with diabetic ketoacidosis (DKA). She had a past medical history of type 1 diabetes with recurrent DKA and end stage renal disease secondary to diabetic nephropathy on intermittent hemodialysis. Prior to admission, she was being dialyzed through a left arm arteriovenous fistula.\nShortly after admission, her left arm fistula thrombosed, and a right internal jugular (IJ) tunneled double-lumen catheter was inserted for dialysis along with a peripherally inserted central catheter (PICC) via right basilic vein for intravenous access. The patient had a previous failed right arm AV fistula so the left arm was avoided in hopes of future recovery of the left AV fistula.\nTwo weeks l",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 183,
+    "text": "Our patient is a 70-year-old male with a history of stage IV metastatic left lower lobe adenocarcinoma of the lung who was on palliative pembrolizumab therapy, 200 mg every three weeks starting from October 2018. He received 200 mg intravenously over thirty minutes in normal saline at the rate of 200 ml/hr. He was followed up with his oncologist for his thyroid function monitoring and did not have any symptoms of hypothyroidism at the onset of his presentation. His time course of TSH along with free T4 is shown in .\nHe was admitted to the hospital after experiencing hematemesis on 6th March 2020 for which an esophagogastroduodenoscopy showed multiple esophageal ulcers and prepyloric ulcers. His TSH was checked during that admission and found to be 84.60. His chronic lymphedema had worsened",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Within"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1587,
+    "text": "This case presentation involves a 57-year-old male who suffered multiple adverse sequela form the delayed diagnosis of a large presacral mass. He initially presented with left lower extremity deep venous thrombosis (DVT). Several months later, he developed a pulmonary embolus (PE). Due to his complaints of right groin pain, imaging was obtained that demonstrated a 13 × 14 cm presacral pelvic mass, which turned out to be a schwannoma on biopsy (Fig. ). The presacral mass occluded the right-sided venous return from the leg and caused the DVT (Fig. ) and PE. Due to the extensive DVT and PE, the patient had an inferior vena cava (IVC) filter that was placed and eventually clotted. He then was referred to our institution for surgical consultation.\nAfter the case was discussed with multiple team",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Heparin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 457,
+    "text": "The patient is now an 18-year-old. He was referred at 3 years of age with a complaint of a chronic wound in the medial region of the right thigh and systemic symptoms, including lethargy, weight loss, and intermittent fever since 2 months prior. The lesion was initially a small red ulcer, which rapidly progressed in size with yellowish nonpurulent bloody discharge. Initially, the patient was hospitalized and treated with topical and systemic antibiotics. Blood studies for systemic vasculitis and chronic granulomatous disease and all investigations to rule out any background conditions, such as inflammatory bowel disease, were normal. His skin lesion improved with local care and topical antibiotic for 2 months, and the patient was discharged without any specific diagnosis. However, after a",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 218,
+    "text": "A 63-year old male presented with a history of lumbar laminectomy and fusion seven months prior to his initial presentation. He recalls that two days following his prone lumbar operation he began experiencing severe bilateral pain along the respective anterolateral thigh. Lumbar magnetic resonance imaging (MRI) ruled out spinal nerve root-related pathology as causative and a definitive diagnosis of bilateral MP, secondary to LFCN compression during the prone spinal surgery, was rendered. Conservative measures with oral analgesics were initially recommended given the typically self-limited course of this pathology. Despite an increasing regimen, including NSAIDs, narcotics, and anti-neuropathic pain medications, the pain persisted over the course of several months. Additionally, traditional",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Skin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 602,
+    "text": "We present a 62-year-old male patient, who presented with a few months of left-sided, episodic, blood-stained nipple discharge, occurring spontaneously and without warning. The discharge had the appearance of ‘frank blood’. He had not noticed any other changes to the breast or nipple and had no history of trauma. His previous history included a mild inflammatory arthritis for which he no longer required medication and a microprolactinoma, diagnosed 13 years previously, for which he required testosterone supplementation due to hypogonadotropic hypogonadism, but no other treatment. At the time of the presentation with blood stained nipple discharge, prolactin levels were within normal ranges as were other hormone assays related to his pituitary function. Cabergoline had been discontinued fou",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Cabergoline"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1024,
+    "text": "A 38-year-old female patient came with a chief complaint of difficulty standing up from squatting position since 2 years ago. The patient also suffered heaviness and numbness from her hips that radiated to both of her knees and ankles. The symptoms worsened steadily in the past 4 months with both lower limbs getting weaker. Laboratory results came out normal, with no signs of infection or positive tumor markers. Radiological examination showed no apparent abnormalities as well. An MRI was obtained, and a tumor mass in the intradural region level of T10–T12 was found (). At that time, the patient was offered surgery, but she chose to undergo treatment with a bone setter. Around two months later, the patient returned to hospital with profound weakness on her lower extremity. Her physical exa",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 516,
+    "text": "A 33-year-old pregnant woman was admitted to our department in the 16th week of her first gestation because of suspicion during a routine ultrasound of decreased fetal movements and fetal malformation consisting of postural deformity of both lower limbs associated with a uterine fibroid. The family history was unremarkable and the mother's medical history nonsignificant except for the presence of two intramural uterine myomas diagnosed before the current pregnancy and smaller than 47 mm in maximum diameter in previous control one year before gestation.\nOur ultrasound investigation verified the presence of an intramural-submucosal tumor with a muscular echogenic pattern and a size of 110 × 88 mm in the anterior uterine wall near to the internal cervical os and another intramural one with a",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 85,
+    "text": "A 45-year-old male was admitted to our clinic due to new onset right leg pain. The patient had undergone an L5-S1 lumbar total disk replacement two years prior with an SB Charitė disk (Depuy Spine, Raynham, MA, USA) as a result of discogenic back pain. Following surgery, he reported a significant relief of his initial symptoms but developed new, atraumatic onset right leg pain over the six months prior to visiting our clinic. The radicular pain had failed to significantly improve with a course of nonoperative treatments consisting of physical therapy, nonsteroidal anti-inflammatory medications, and epidural steroid injections. He denied paresthesias or the loss of motor function, and he also denied a prior history of HO formation, trauma, or inflammatory arthritis.\nA physical examination r",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Spine"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1517,
+    "text": "The patient was a 9 year old boy with Ewing Sarcoma initially diagnosed just before his 6th birthday. He underwent peripheral blood stem cell transplant. One year later he presented with recurrent disseminated disease and restarted chemotherapy and received radiation. He was also referred to the pediatric hospice program.\nHis symptoms included lower extremity paralysis and significant weakness of the upper extremities. He developed a partial gastric outlet obstruction, which later resolved to the point that he was able to resume oral feeding, but had difficulty taking oral medications. At the time of treatment his weight was 23 kg.\nHe had multiple pain complaints including headache, back pain and generalized arthralgia/myalgia. There was a particularly troubling bone pain involving his for",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Pain",
+        "Tool"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1532,
+    "text": "A 51-year-old man was admitted to our surgical unit with a diagnosis of chronic pancreatitis. He was suffering from episodes of continuous abdominal pain for the last one year. The pain was radiated from the right upper quadrant of the abdomen to the back and was associated with nausea, partially relieved by injectable analgesics and aggravated by food ingestion. This challenge led to the loss of appetite then to weight loss which also worsened by the presence of occasional episodes of malabsorption and the development of insulin dependent diabetes mellitus. There was no family history of the similar condition in parents, siblings or first-degree relatives.\nMoreover, there was no history of abdominal trauma in the past. The patient had a history of admissions to different hospitals for the",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Plain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 153,
+    "text": "A 57-year-old asymptomatic man with no significant past medical history was found to have an enlarged cardiac silhouette on a routine chest radiograph (). Magnetic resonance imaging (MRI) revealed a 9 cm pericardial cyst in the right cardiophrenic angle that was associated with right atrial compression (Figures , , and ). Although the pericardial cyst wall showed contrast uptake, no uptake within the cyst was observed on first-pass or delayed images. There was no compression of the airway or superior vena cava (SVC) and the pericardial cyst had not eroded into the heart. The patient was not at high risk for hydatid cysts and he did not have any history of fever, suggesting that an infectious cause for his pericardial cyst is unlikely. He did not have any history of chest trauma or intratho",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1065,
+    "text": "A 58-year-old male on treatment for prostate cancer since two years, presented to the skin OPD with complaints of dark colored raised lesions on hands and face of three days duration. He initially noticed lesions on the face which spread to involve the neck and both forearms and hands. The lesions were associated with moderate to severe itching which increased on sun exposure. There was history of such episodic appearance of lesions for the last four to five months. He was taking docetaxel injections for prostate cancer once in three weeks since five months. The lesions had initially appeared two to three days after the first injection, according to his case history. Subsequently they would fade in two weeks but again flare up after the next injection. The patient was not administered any",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Skin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 511,
+    "text": "An otherwise healthy, non-smoker, obese (his BMI is 35), adult male patient in his late 20s sought medical assistance following agonizing simultaneous pain in both knees with weight bearing. His Visual Analog Score (VAS) pain was 2/10 at rest but increased to 10/10 with weight bearing, rendering him unable to walk. Pain onset was ten days before his first medical consultation, without any history of specific traumatic incident. Prior to pain presentation, the patient had just completed a ten-day training period in order to meet specific criteria to join the police academy. The training consisted of long walks and running sessions on hard tarmac. Before the training period, his lifestyle was rather sedentary. The patient provided a detailed account of his daily training sessions because he",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Pain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 897,
+    "text": "A 70-year-old man with a T3V1N0M0 rectal tumor underwent laparoscopic APR followed by adjuvant chemotherapy with oxaliplatin, fluorouracil, and calcium folinate. At 1 year control, radiological work-up and colonoscopy showed no signs of recurrence or distant metastases. Thirteen months after the APR, the patient developed a perineal hernia and had a reconstruction of the pelvic floor with a biological mesh (Permacol™) via a transperineal approach. The postoperative course was uneventful, and the initial follow-up with a pelvic–abdominal computed tomography (CT) scan 4 months after the surgery showed no signs of locoregional recurrence or reherniation. Nine months after the perineal hernia operation, the patient experienced weight loss. A thoracic–abdominal CT scan was performed and showed",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Permacol"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 486,
+    "text": "We present the case of a 63-year-old man with a history of implantable cardioverter-defibrillator (ICD) insertion at the age of 42 for secondary prevention after sudden cardiac arrest (SCA) with shockable rhythm at an outside hospital; since then, he had had recurrent admissions to our facility due to episodes of ventricular tachycardia (VT) (Figure ) despite undergoing trials of multiple anti-arrhythmic medications. He had initially been on amiodarone 400 mg a day; however, he had developed amiodarone-induced hypothyroidism and had been transitioned to sotalol 160 mg BID. The patient had no other major comorbidity or systemic symptoms, no family history of SCA, and no social history of substance abuse. Baseline ECGs showed normal sinus rhythm with normal QRS, and QT intervals. His coronar",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Baseline"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1139,
+    "text": "A 70-year old man was admitted to our hospital on March 20, 2017 with the chief complaints of coughing while drinking, dysphagia, and dysarthria, which had persisted for 1 month. The patient was suffering from bucking, swallowing difficulty, dizziness, and nausea. He had been vomiting brown food content at home since March 8 without obvious inducement. He was sent to The Second Affiliated Hospital of Harbin Medical University on March 9. Head magnetic resonance imaging showed an infraction in the left medulla oblongata on March 10. Magnetic resonance angiography revealed stenosis in the left vertebral artery, which was diagnosed as a “cerebral infarction.” After treatment for 12 days, the patient's clinical symptoms improved and he was discharged from the hospital. He came to our hospital",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Harbin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 783,
+    "text": "A 9-year-old girl complained of pain in front of the medial malleolus of her right foot after a long walk or distance movement, in which the pain could be relieved after rest, while it was repeated and lasted for several months. There was no obvious history of trauma in the child. Physical examination revealed a mass in front of the medial malleolus of her right foot, which protruded from the skin that had a hard touch, clear margin, and can be propelled as well. There was no obvious motor dysfunction in her right foot, and no remarkable abnormality was noted in the examination of neurological function. X-ray imaging (Fig. ) showed a bone mass in the medial talus, with a smooth edge. Computed tomography (CT) scan of her right foot (Fig. ) revealed that there was a bone mass in the talus pr",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 626,
+    "text": "A 71-year-old man with a history of TEVAR for Stanford B aortic dissection and aortic aneurysm rupture 20 months ago presented at a local medical clinic with fever over 38 °C. Laboratory findings revealed elevated infectious indicators, and he was prescribed with antibiotics. However, he presented at his primary care hospital one week later without symptomatic improvement. Contrast-enhanced computed tomography at that time identified a fistula between the esophagus (A and B) and an aortic aneurysm, and upper gastrointestinal endoscopy revealed an esophageal ulcer (C). Therefore, he was diagnosed with AEF after TEVAR and immediately transferred to our hospital for surgical therapy. On admission, he did not have hematemesis and was hemodynamically stable. He required emergency surgery to the",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 186,
+    "text": "A 72-year-old man on regular medication for hypertension was transported to our hospital complaining of sudden headache followed by disturbed consciousness. Upon arrival, he showed an altered mental status with decreased alertness. He could follow commands but could not speak. He had no other focal deficits, such as hemiparesis or cranial nerve palsy. Computed tomography (CT) showed a subarachnoid hemorrhage (SAH) []. Emergency angiography revealed a small aneurysm at the bifurcation of the left internal carotid artery and the posterior communicating artery []. The aneurysm was clipped successfully on the day of admission, and his neurological conditions showed remarkable improvement. Because the angiogram obtained on day 6 showed a sign of localized mild spasm in the A1 portion of the lef",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 891,
+    "text": "An 11-year-old girl was referred to the Department of Oral and Maxillofacial Surgery, Mashhad Dental School, Iran for evaluation of a facial swelling of 6 months duration. There was no history of systemic disease and trauma. The extra oral examin- ation revealed an asymptomatic swelling on the right side of the maxilla without signs and symptoms of inflammation.\nIntra-orally, a bony hard bulge was palpable in the maxillary vestibule. A full complement of the teeth with the exception of missing second molar was marked able. Oral mucosa was normal and tooth mobility was not seen. Radiographically, computerized tomography scan (CT) showed a well-defined, radiolucent lesion in the maxillary sinus which contained several radiopaque materials of varying sizes and shapes ().\nThe panoramic view sh",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "School"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1251,
+    "text": "A 38-years-old Middle Eastern man was admitted to our hospital for the management of a nasal granuloma. He had a history of primary right testicular tumor diagnosed at an outside institution as a seminoma and treated with orchiectomy followed by single agent Cisplatin and radiation therapy to the retroperitoneum. Few months after this diagnosis, the patient had an SMR procedure for nasal septal deviation. Shortly after that he developed nasal infection that progressed gradually into a very large granuloma. Despite a broad spectrum antibiotic coverage and antifungal therapy given at that institute, the patient nasal granuloma did not improve and was then associated with dysphagia and multiple oral ulcers.\nUpon admission to the hospital, physical exam showed a very large nasal granuloma with",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Cisplatin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1456,
+    "text": "Patient 5 was an 81-year-old man initially diagnosed with myelodysplastic syndrome (MDS) at an outside institution in June 2009. Cytogenetics from time of diagnosis were not available. His MDS was treated with lenalidomide and epoetin alfa. In October 2011, he progressed to AML with normal cytogenetics and was negative for FLT-3, NPM-1, and CEBPa. He was treated with 10-day decitabine for three courses. Recovery bone marrow showed a hypocellular marrow with 10% residual blasts. The decision was made to move forward with maintenance therapy with 5-day cycles of decitabine. Bone marrow biopsy in November 2012 after 10 cycles of decitabine revealed an increase in blasts and the therapy was changed to azacitidine. He received a total of 39 cycles of azacitidine (cycles 1 - 30 were 7-day course",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 615,
+    "text": "Case 2 was a 72-year-old female patient who presented with a swelling in the occipital region that had been gradually increasing for past four years. It had shown rapid growth during the year prior to being our hospital. Initially, the swelling was the size of a peanut. The patient had no history of trauma, fever, or infection at this site. The swelling gradually increased in size for three years and then experienced rapid growth over the next year. On examination, we found a globular (goose egg size), non-tender, non-compressible, firm to fluctuant swelling measuring approximately 10 × 10 cm in the occipital region (Figure ). A cranial computed topography (CT) scan (one year prior to coming to our hospital) revealed a lesion that exhibited higher density to the brain parenchyma, with an a",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 220,
+    "text": "An 8-year-old boy with chronic encephalopathy secondary to hypoxic ischemic syndrome, with cerebral palsy and symptomatic epilepsy, was admitted to the emergency department of the children's hospital. He had been seizure-free for the past year with an enteric-coated delayed release formulation of VPA (375 mg every 8 hours). Thirty days prior to hospital admission, he was started on LTG 25 mg/day along with VPA, since his seizures were no longer under control with VPA. Two weeks later, the dose was increased (50 mg/day). His morning trough plasma VPA level was measured before LTG was added to the therapy yielding a concentration of 85 mg/L. On admission, he presented macular lesions on the front of the thorax that extend to the back, followed by bilateral eyelid edema and ulcerated lesions",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 561,
+    "text": "A 63-year-old male with a past medical history of non-ischemic cardiomyopathy (ejection fraction 10%-15%), hypertension, chronic kidney disease stage G3A, and severe mitral valve regurgitation status post valve repair initially presented for an upgradation of his biventricular pacemaker to biventricular implantable cardioverter defibrillator (BIV-ICD) and replacement of non-functional right atrial lead. The pacemaker pocket was exposed and identified and the atrial and ventricular leads were pulled back under fluoroscopic guidance. A new left coronary sinus lead was placed. Next, right atrial (RA) and right ventricular (RV) leads were placed and access was obtained via the left coronary sinus as the left subclavian vein was found to be occluded with formation of collaterals. The leads were",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 565,
+    "text": "A 70-year-old female patient presented with the complaint of purple discolorations on the dorsum of the right foot, which had been present for 2 years and growing in number. Her past history was remarkable for an operation against colon carcinoma 10 years ago. She had not taken chemotherapy and radiotherapy. She also had goiter for 5 years. Dermatologic examination revealed multiple purple-colored macular lesions with diameters ranging from 0.5 to 1 cm on the dorsum of the right foot. Her serologic examination was negative for HIV-1. Systemic examination and laboratory tests were negative for a finding suggestive of systemic involvement of KS. Biopsies were taken from the lesions with an initial diagnosis of KS.\nThe patient was treated with local excision and cryotherapy for cutaneous Kapo",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 757,
+    "text": "An 18-year-old healthy female patient presented with the complaint of discolored left upper front tooth. She had a history of fall 10 years back, which resulted in slight fracture of crown of the tooth but the patient was otherwise asymptomatic.\nThe clinical examination revealed Ellis class II fracture and discoloration in the crown of tooth 21 (). A sinus opening was also seen in the apical region of 21. Thermal and electric pulp vitality tests revealed that the tooth was non-vital. IOPA radiographic examination revealed presence of a blunderbuss canal having open apex in tooth 21 (). CBCT examination was also done, which revealed perforation present on the mesial side of tooth apex in coronal plane indicating presence of a periapical lesion (). CBCT image in sagittal plane revealed perfo",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 437,
+    "text": "A 34-year-old woman with a diagnosis of PH for 4 years was referred to headache clinic for preconception counseling. She had about 7 to 15 headache episodes per day, and her headaches are characterized by a unilateral, moderate to severe, occasionally nausea, and photophobia, localized to left orbital, supraorbital, and occipital areas, sharp and throbbing pain radiating to same side neck and shoulder, accompanied by ipsilateral autonomic features such as eyelid edema, ptosis, lacrimation, and nasal congestion and/or rhinorrhea lasting 5 to 15 minutes. Those headaches typically responded well to indomethacin. She was being treated with indomethacin 25 mg 3 times a day and lansoprazole 15 mg once a day (proton pump inhibitor). The numeric rating scale (NRS) score was 8 to 9 out of 10. She d",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1229,
+    "text": "This is a case of a 68-year-old female presented to the clinic for a 2-month history of recurrent left ankle pain, associated with swelling and edema. The patient had a history of thyroid follicular adenocarcinoma which was treated surgically with total thyroidectomy and postoperative iodine treatment 25 years prior to presentation. At 12 years post thyroidectomy, she was diagnosed with a calcaneal mass of the same pathology and diagnosed with delayed distant thyroid carcinoma metastasis to the calcaneus. 10 years after calcaneal mass excision, the patient was diagnosed with a proximal tibial mass that turned out to be also delayed metastasis of the same pathology.\nAt the first presentation 15 years ago, she initially presented complaining of mild edema of the left ankle with intermittent",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Plain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 179,
+    "text": "A 14-year-old Caucasian girl with JIA diagnosed at 2 years of age returned to our pediatric rheumatology clinic with complaints of increased morning stiffness of both knees and a mass of the left knee. Three weeks prior to the onset of knee stiffness, she noticed a mass on the lateral side of her left knee. She had decreased knee flexion and pain with walking that was greater on her left side. She reported a painful snap when she moved her left knee from a flexed to extended position, but no instability or locking. There was no warmth, erythema, interval growth, or fluctuance of the mass. She also did not have any systemic symptoms including fever, chills, or recent weight loss.\nHer past medical history was significant for extended oligoarticular JIA with 5 joint involvement and a positive",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Hodgkin"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 10,
+    "text": "A 66-year-old man with a history of Billroth II gastrectomy for peptic ulcer disease some 35 years ago and an open cholecystectomy some 10 years ago presented to the emergency department with diffuse abdominal pain, vomiting, and diarrhea. The patient admitted receiving nonsteroidal anti-inflammatory drugs and colchicine for persisting gout crisis and diffuse articular pain. He was afebrile and physical examination revealed mild tenderness to deep palpation in all four abdominal quadrants. Rectal examination revealed an enlarged prostate. On laboratory tests there were marked leukocytosis of 48,000/mm3, international normalized ratio (INR) of 2.5, and C-reactive protein of 48 mg/l. Arterial blood gas analysis showed a pH of 7.21, base excess of 13.6 mEq/l, and pCO2of 33 mmHg. At the time o",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Within"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 478,
+    "text": "A 43-year-old female was admitted to our hospital complaining of numbness in the left limb for one week. Past medical history was notable for the diagnosis of NMO and intracranial hemorrhage. The patient was diagnosed with NMO ten years ago due to repeated episodes of blurred vision and numbness and weakness in the limbs. Brain and spinal magnetic resonance imaging (MRI) at that time indicated lesions in the brain white matter as well as spinal cord involving cervical and thoracic regions. AQP4 antibody test was not performed. Considering the potential diagnosis of demyelinating disease, steroid pulse therapy was initiated and the patient improved after the treatment. After discharge, corticosteroid was gradually tapered and the patient was maintained at a low-dose corticosteroid and azath",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [
+        "Brain"
+      ],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1567,
+    "text": "An 11-year-old female patient presented to the department of pedodontics and preventive dentistry with a chief complaint of extraoral swelling on the left side of the face at the lower border, near the angle of the mandible. The history of presenting illness revealed that the swelling had been present for the past 6 months and had mildly increased in size for the past 2 months. The swelling had been asymptomatic. Extraoral examination revealed mild facial asymmetry and a hard nodular mass which was nontender on palpation. The skin overlying it was normal with no signs of inflammation or ulceration []. Intraoral examination revealed the presence of permanent dentition with missing left permanent mandibular first molar (36). No obliteration of buccal vestibule was noted and mucosa overlying",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1257,
+    "text": "A 36-year-old obese female patient underwent a sleeve gastrectomy abroad. Eleven days after surgery, she presented with an abdominal pain. Abdominal computer tomography (CT) revealed several fluid-air collections (3 abscesses) around the upper greater gastric curve (3.5 × 3.2 cm), lesser sac (7 × 3.3 cm) as well as anterior to the spleen (7 × 3.3 cm). By that time, there was also left pleural effusion and atelectasis of the left lower lung lobe. On the next day, CT-guided aspiration was done () and a pigtail catheter was inserted to drain the abscesses. On the following day, water-soluble oral contrast displayed an active contrast leak along the proximal sleeve gastrectomy (). On the same day, covered esophageal stent was placed endoscopically. The patient was discharged home and was sched",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  },
+  {
+    "id": 1246,
+    "text": "A 30-year-old nulliparous woman of Nigerian origin was admitted in the Obstetrical Department of the University Hospital of Verona with pPROM and active uterine contractions at 23 weeks' gestation. Previous medical history was unremarkable except for an illegal abortion induced by means of an instrumental traditional method in the country of origin some years before. A liveborn male fetus of 560 g was delivered but died in the Intensive Care Neonatal Unit in the early postnatal period. A transvaginal examination in the delivery room showed a 4 cm wide uterovaginal fistula: the supracervical lesion in close proximity of the internal cervical os and connecting the uterine cavity with the posterior fornix was repaired right after the 3rd stage of labor. A few months later the same patient cam",
+    "ground_truth": {
+      "conditions": [],
+      "drugs": [],
+      "dosages": [],
+      "procedures": []
+    }
+  }
+]
